@@ -3,7 +3,7 @@ A correct version of javasysmon without bugs , all the forks of JavaSysmon have 
 
 Using it in various projects until JavaSysmon Repository resolves the bugs .
 
-https://jitpack.io/private#goxr3plus/javasysmon/V0.3.5
+https://jitpack.io/private#goxr3plus/javasysmon
 
 ### Step 1. Add the JitPack repository to your build file
 ```
@@ -20,6 +20,6 @@ https://jitpack.io/private#goxr3plus/javasysmon/V0.3.5
 <dependency>
    <groupId>com.github.goxr3plus</groupId>
    <artifactId>javasysmon</artifactId>
-   <version>V0.3.5</version>
+   <version>V3.5.0</version>
 </dependency>
 ```
