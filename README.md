@@ -3,6 +3,8 @@ A correct version of javasysmon without bugs , all the forks of JavaSysmon have 
 
 Using it in various projects until JavaSysmon Repository resolves the bugs .
 
+### Add it to your project using JitPack :
+
 https://jitpack.io/private#goxr3plus/javasysmon
 
 ### Step 1. Add the JitPack repository to your build file
