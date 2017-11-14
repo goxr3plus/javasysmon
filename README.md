@@ -8,7 +8,7 @@ Using it in various projects until JavaSysmon Repository resolves the bugs .
 https://jitpack.io/private#goxr3plus/javasysmon
 
 ### Step 1. Add the JitPack repository to your build file
-```
+``` XML
 <repositories>
 	<repository>
 	   <id>jitpack.io</id>
@@ -18,7 +18,7 @@ https://jitpack.io/private#goxr3plus/javasysmon
 ```
 
 ###  Step 2. Add the dependency
-```
+``` XML
 <dependency>
    <groupId>com.github.goxr3plus</groupId>
    <artifactId>javasysmon</artifactId>
