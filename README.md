@@ -9,6 +9,17 @@ For example (for JAVASYSMON) in my computer i do the following :
 
 > mvn install:install-file -Dfile=D:\GitHub\XR3Player\localLibraries\javasysmon-0.3.6.0.jar -DgroupId=local.github.goxr3plus -DartifactId=javasysmon -Dversion=3.6.0 -Dpackaging=jar
 
+Then add it on the dependencies like this:
+
+```XML
+<!-- javasysmon -->
+<dependency>                                      
+	<groupId>local.github.goxr3plus</groupId>     
+	<artifactId>javasysmon</artifactId>           
+	<version>3.6.0</version>                      
+</dependency>                                     
+```
+
 **Download the .jar file i added on releases** , because if you use JitPack you will get the wrong .jar which produces errors .
 
 
