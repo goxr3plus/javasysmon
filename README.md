@@ -3,25 +3,4 @@ A correct version of javasysmon without bugs , all the forks of JavaSysmon have 
 
 Using it in various projects until JavaSysmon Repository resolves the bugs .
 
-### Add it to your project using JitPack :
-
-https://jitpack.io/private#goxr3plus/javasysmon
-
-### Step 1. Add the JitPack repository to your build file
-``` XML
-<repositories>
-	<repository>
-	   <id>jitpack.io</id>
-	   <url>https://jitpack.io</url>
-        </repository>
-</repositories>
-```
-
-###  Step 2. Add the dependency
-``` XML
-<dependency>
-   <groupId>com.github.goxr3plus</groupId>
-   <artifactId>javasysmon</artifactId>
-   <version>V3.5.0</version>
-</dependency>
-```
+**Download the .jar file i added on releases** , because if you use JitPack you will get the wrong .jar which produces errors .
