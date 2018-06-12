@@ -1,3 +1,5 @@
+# Newer version -> [javasysmon2](https://github.com/goxr3plus/javasysmon2)
+
 [![HitCount](http://hits.dwyl.io/goxr3plus/javasysmon.svg)](http://hits.dwyl.io/goxr3plus/javasysmon)
 
 # How to add it on your Maven Project ?
